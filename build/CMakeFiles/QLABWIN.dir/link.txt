@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -Wl,--dependency-file=CMakeFiles/QLABWIN.dir/link.d CMakeFiles/QLABWIN.dir/QLABWIN_autogen/mocs_compilation.cpp.o CMakeFiles/QLABWIN.dir/qlabs.cpp.o -o QLABWIN  /usr/lib64/libQt6Widgets.so.6.11.2 /usr/lib64/libQt6Svg.so.6.11.2 /usr/lib64/libQt6Gui.so.6.11.2 /usr/lib64/libGLX.so /usr/lib64/libOpenGL.so /usr/lib64/libQt6Core.so.6.11.2
