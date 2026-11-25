@@ -1,5 +1,0 @@
-/home/elifts/Desktop/vs/oscsenderas/build/CMakeFiles/QLABWIN.dir
-/home/elifts/Desktop/vs/oscsenderas/build/CMakeFiles/edit_cache.dir
-/home/elifts/Desktop/vs/oscsenderas/build/CMakeFiles/rebuild_cache.dir
-/home/elifts/Desktop/vs/oscsenderas/build/CMakeFiles/QLABWIN_autogen_timestamp_deps.dir
-/home/elifts/Desktop/vs/oscsenderas/build/CMakeFiles/QLABWIN_autogen.dir
